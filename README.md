@@ -13,7 +13,7 @@ I´m a Full Stack Web Developer.
 After finishing a full-time Bootcamp I'm looking for an opportunity <br> to start developing in this wonderful world of programming.✨
 
 - 📫 [Twitter](https://twitter.com/JereSantochi) 
-- 💬 [LinkedIn](https://www.linkedin.com/in/jeremias-santochi/) 
+- 👷 [LinkedIn](https://www.linkedin.com/in/jeremias-santochi/) 
 
 <!--
 **JehhS/JehhS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
