@@ -4,11 +4,11 @@ I´m a Full Stack Web Developer.
 
 **Skills**
 
-💻 JavaScript, React, Redux
-⚙️ Node.JS, Express
-👁️ Material-UI, CSS
-💽 PostgreSQL, MongoDB
-💬 Git, SCRUM 
+- 💻 JavaScript, React, Redux
+- ⚙️ Node.JS, Express
+- 👁️ Material-UI, CSS
+- 💽 PostgreSQL, MongoDB
+- 💬 Git, SCRUM 
 
 after finishing a full-time Bootcamp i´m looking to start developing in this wonderful world of programming.✨
 
