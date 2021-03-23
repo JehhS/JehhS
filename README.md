@@ -11,6 +11,7 @@ I´m a Full Stack Web Developer.
 - 💬 Git, SCRUM 
 
 After finishing a full-time Bootcamp I'm looking for an opportunity 
+
 to start developing in this wonderful world of programming.✨
 
 - 📫 [Twitter](https://twitter.com/JereSantochi) 
