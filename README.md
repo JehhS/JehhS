@@ -2,7 +2,7 @@
 
 I´m a Full Stack Web Developer. 
 
-**Skills**
+**Skills in**
 
 - 💻 JavaScript, React, Redux
 - ⚙️ Node.JS, Express
