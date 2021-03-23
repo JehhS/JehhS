@@ -10,9 +10,7 @@ I´m a Full Stack Web Developer.
 - 💽 PostgreSQL, MongoDB
 - 💬 Git, SCRUM 
 
-After finishing a full-time Bootcamp I'm looking for an opportunity 
-
-to start developing in this wonderful world of programming.✨
+After finishing a full-time Bootcamp I'm looking for an opportunity <br> to start developing in this wonderful world of programming.✨
 
 - 📫 [Twitter](https://twitter.com/JereSantochi) 
 - 💬 [LinkedIn](https://www.linkedin.com/in/jeremias-santochi/) 
