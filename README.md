@@ -5,7 +5,7 @@ I´m a Full Stack Web Developer.
 **Skills in**
 
 - 💻 JavaScript, React, Redux
-- ⚙️ Node.JS, Express
+- ⚙️ Node.JS, Express.Js
 - 👁️ Material-UI, CSS
 - 💽 PostgreSQL, MongoDB
 - 💬 Git, SCRUM, Slack, Trello
