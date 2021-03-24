@@ -8,7 +8,8 @@ I´m a Full Stack Web Developer.
 - ⚙️ Node.JS, Express
 - 👁️ Material-UI, CSS
 - 💽 PostgreSQL, MongoDB
-- 💬 Git, SCRUM 
+- 💬 Git, SCRUM, Slack, Trello
+- ⚡ Collaborative, Hard Worker
 
 After finishing a full-time Bootcamp I'm looking for an opportunity <br> to start developing in this wonderful world of programming.✨
 
