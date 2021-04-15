@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-I´m a Full Stack Web Developer. 
+I´m a Full Stack Web Developer. After working 11 years as a full time wedding photographer 📸, I discovered programming.
 
 **Skills in**
 
@@ -11,7 +11,7 @@ I´m a Full Stack Web Developer.
 - 💬 Git, SCRUM, Slack, Trello
 - ⚡ Collaborative, Hard Worker
 
-After finishing a full-time Bootcamp I'm looking for an opportunity <br> to start developing in this wonderful world of programming.✨
+Currently hunting my first opportunity to start developing in this wonderful world of programming.✨ 
 
 - 📫 [Twitter](https://twitter.com/JereSantochi) 
 - 👷 [LinkedIn](https://www.linkedin.com/in/jeremias-santochi/) 
