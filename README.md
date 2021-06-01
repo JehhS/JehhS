@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-I´m a Full Stack Web Developer. <br> After working 11 years as a full time wedding photographer 📸, I discovered programming.
+I´m a Full Stack Web Developer. <br> After working 11 years as a full time photographer 📸, I discovered programming.
 
 **Skills in**
 
