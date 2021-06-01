@@ -11,7 +11,7 @@ I´m a Full Stack Web Developer. <br> After working 11 years as a full time wedd
 - 💬 Git, SCRUM, Slack, Trello
 - ⚡ Collaborative, Hard Worker
 
-Currently hunting my first opportunity to start developing in this wonderful world of programming.✨ 
+- 🔭Currently working in Mercadolibre .✨ 
 
 - 📫 [Twitter](https://twitter.com/JereSantochi) 
 - 👷 [LinkedIn](https://www.linkedin.com/in/jeremias-santochi/) 
