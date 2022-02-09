@@ -9,7 +9,7 @@ I´m a Full Stack Web Developer. <br> After working 11 years as a full time phot
 - 👁️ Material-UI, CSS
 - 💽 PostgreSQL, MongoDB
 - 💬 Git, SCRUM, Slack, Trello
-- ⚡ Collaborative, Hard Worker
+- ⚡ Collaborative
 
 --> 💡Currently working for Mercadolibre 
 
