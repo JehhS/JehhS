@@ -4,7 +4,7 @@ I´m a Full Stack Web Developer. <br> After working 11 years as a full time phot
 
 **Skills in**
 
-- 💻 JavaScript, React, Redux
+- 💻 JavaScript, React
 - ⚙️ Node.JS, Express.Js
 - 👁️ Material-UI, CSS
 - 💽 PostgreSQL, MongoDB
