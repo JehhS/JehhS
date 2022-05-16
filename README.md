@@ -1,12 +1,11 @@
 ### Hi Developers 👋
 
-I´m a Full Stack Web Developer. <br> After working 11 years as a full time photographer 📸, I discovered programming.
+I´m a Backend Developer. <br>
 
 **Skills in**
 
-- 💻 JavaScript, React
+- 💻 JavaScript, Java, Springboot
 - ⚙️ Node.JS, Express.Js
-- 👁️ Material-UI, CSS
 - 💽 PostgreSQL, MongoDB
 - 💬 Git, SCRUM, Slack, Trello
 - ⚡ Collaborative
