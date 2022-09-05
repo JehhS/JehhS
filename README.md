@@ -10,7 +10,7 @@ I´m a Backend Developer. <br>
 - 💬 Git, SCRUM, Slack, Trello
 - ⚡ Collaborative
 
---> 💡Currently working for Mercadolibre 
+--> 💡Currently working for [Mercadolibre](https://www.mercadolibre.com.ar) 
 
 - 📫 [Twitter](https://twitter.com/JereSantochi) 
 - 👷 [LinkedIn](https://www.linkedin.com/in/jeremias-santochi/) 
