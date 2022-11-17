@@ -4,9 +4,8 @@ I´m a Backend Developer. <br>
 
 **Skills in**
 
-- 💻 JavaScript, Java, Springboot
+- 💻 Java, Springboot, JavaScript
 - ⚙️ Node.JS, Express.Js
-- 💽 PostgreSQL, MongoDB
 - 💬 Git, SCRUM, Slack, Trello
 - ⚡ Collaborative
 
